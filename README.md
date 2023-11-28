@@ -1,2 +1,2 @@
 # SonicChirp
-A ChatGPT Clone
+A ChatGPT Clone 🤖
